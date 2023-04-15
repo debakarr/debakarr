@@ -31,3 +31,10 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </details>
+
+<details>
+  <summary>Anime Watch Stats</summary>
+
+![MyAnimeList Stats](https://malsignature.com/?/view?username=Baka_Debakar&style=small)
+
+</details>
