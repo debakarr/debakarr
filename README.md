@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **debakar.roy@outlook.com**
 
+- 📖 Check my blog at https://debakarr.github.io/posts/
+
 - 📄 Check my resume [here](https://debakarr.github.io/resume/debakar_roy_resume.pdf)
 
 - ⚡ Fun fact **I love watching anime, kdrama and cdrama**
