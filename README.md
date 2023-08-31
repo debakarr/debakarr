@@ -39,8 +39,10 @@
 </details>
 
 <details>
-  <summary>Anime Watch Stats</summary>
+  <summary>Watch Stats</summary>
 
 ![MyAnimeList Stats](https://malsignature.com/?/view?username=Baka_Debakar&style=small)
+
+[MyDramaList](https://mydramalist.com/dramalist/BakaDebakar)
 
 </details>
